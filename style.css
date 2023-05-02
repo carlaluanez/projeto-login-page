@@ -37,6 +37,7 @@ body * {
 
 .img-left {
     width: 28vw;
+    box-shadow: 0x 10px 20px #00000056;
 }
 
 .div-right-login {
